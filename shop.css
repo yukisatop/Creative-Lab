@@ -29,6 +29,29 @@ h2 {
         font-size: 2em;
 }
 
+
+.quote1 {
+    font-size: 1em;
+    margin: auto;
+    width: 60%;
+    border: 5px solid blue;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.quote2 {
+    font-size: 1em;
+    margin: auto;
+    width: 60%;
+    text-align: right;
+    font-weight: bold;
+   
+}
+
+
 ul {
 	list-style-type: none;
 	margin: 0;
